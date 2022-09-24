@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97328" started-at="2022-09-21T19:27:17 IST" finished-at="2022-09-21T19:28:54 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97328" started-at="2022-09-21T19:27:17 IST" finished-at="2022-09-21T19:28:54 IST">
+      <class name="testcases.TestCases">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.TestCases@5e853265]" name="SetUp" is-config="true" duration-ms="47221" started-at="2022-09-21T19:27:17 IST" finished-at="2022-09-21T19:28:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Cart(java.lang.String)[pri:0, instance:testcases.TestCases@5e853265]" name="Cart" duration-ms="8367" started-at="2022-09-21T19:28:04 IST" finished-at="2022-09-21T19:28:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sauce Labs Backpack]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cart -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.TestCases@5e853265]" name="TearDown" is-config="true" duration-ms="756" started-at="2022-09-21T19:28:13 IST" finished-at="2022-09-21T19:28:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.TestCases@5e853265]" name="SetUp" is-config="true" duration-ms="12275" started-at="2022-09-21T19:28:14 IST" finished-at="2022-09-21T19:28:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="RtLoginTest()[pri:0, instance:testcases.TestCases@5e853265]" name="RtLoginTest" duration-ms="2529" started-at="2022-09-21T19:28:26 IST" finished-at="2022-09-21T19:28:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RtLoginTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.TestCases@5e853265]" name="TearDown" is-config="true" duration-ms="282" started-at="2022-09-21T19:28:28 IST" finished-at="2022-09-21T19:28:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.TestCases@5e853265]" name="SetUp" is-config="true" duration-ms="8459" started-at="2022-09-21T19:28:29 IST" finished-at="2022-09-21T19:28:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="TitleTest()[pri:0, instance:testcases.TestCases@5e853265]" name="TitleTest" duration-ms="138" started-at="2022-09-21T19:28:37 IST" finished-at="2022-09-21T19:28:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.TestCases@5e853265]" name="TearDown" is-config="true" duration-ms="233" started-at="2022-09-21T19:28:37 IST" finished-at="2022-09-21T19:28:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.TestCases@5e853265]" name="SetUp" is-config="true" duration-ms="16024" started-at="2022-09-21T19:28:37 IST" finished-at="2022-09-21T19:28:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="WrgLoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcases.TestCases@5e853265]" name="WrgLoginTest" duration-ms="701" started-at="2022-09-21T19:28:53 IST" finished-at="2022-09-21T19:28:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WrgLoginTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.TestCases@5e853265]" name="TearDown" is-config="true" duration-ms="181" started-at="2022-09-21T19:28:54 IST" finished-at="2022-09-21T19:28:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
